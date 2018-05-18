@@ -1,0 +1,33 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 77: expected end of line
+    stop music "bgmusic.mp3"
+               ^
+
+File "game/script.rpy", line 117: expected end of line
+    stop music "bgmusic.mp3"
+               ^
+
+File "game/script.rpy", line 160: expected end of line
+    stop music "bgmusic.mp3"
+               ^
+
+File "game/script.rpy", line 202: expected end of line
+    stop music "bgmusic.mp3"
+               ^
+
+File "game/script.rpy", line 404: expected end of line
+    stop music "bgmusic.mp3"
+               ^
+
+File "game/script.rpy", line 440: expected end of line
+    stop music "bgmusic.mp3"
+               ^
+
+File "game/script.rpy", line 482: expected end of line
+    stop music "bgmusic.mp3"
+               ^
+
+Ren'Py Version: Ren'Py 6.99.12.3.2123
