@@ -1,2 +1,2 @@
 # portfolio
-All my work will be posted on here
+You can find some of the work on my portfolio on here
